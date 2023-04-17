@@ -1,2 +1,3 @@
 # responsive-registratio-form
-Just a simple signup/login registration form
+A simple responsive registration form. 
+Live preview: https://lejlamuratovic.github.io/responsive-registration-form/
